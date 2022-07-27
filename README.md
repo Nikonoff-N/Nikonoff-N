@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://nikonoff-n.github.io/Portfolio/" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Developer, Enterpreneur from 🇷🇺</h3>
+<p>👯 I’m currently working on CRM - system for my company</p>
 <p>👯 I’m looking to collaborate on exiting Python projects</p>
 
 
