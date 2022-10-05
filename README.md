@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 1. нам нужно будет делать запросы в интернет по http. Нам с этим поможет справиться библиотека httpx
 
-'''
+```
 r = httpx.get(f"https://api.nasa.gov/planetary/apod?api_key=eB7u1jixjbUNU9FaQxb2vvKLJDEDBmgJaaX5Os6D")
-'''
+```
