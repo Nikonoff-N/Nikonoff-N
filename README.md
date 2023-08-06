@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on educational CRM system **Enlightment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikonoff-N](https://github.com/Nikonoff-N)
